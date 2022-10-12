@@ -1,2 +1,2 @@
 # My-Resume
-Hi! That is an idea for my resume!
+Hi! That is my resume!
